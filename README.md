@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiqueasAmorim!
-- 🎓 I'm majoring in Computer Science
+- 🎓 I have a bachelor's degree in Computer Science
 - 🔭 I’m currently working on Node.js projects
 - 👀 I’m interested in Web Development
 - 📫 How to reach me miqueas.at@gmail.com
